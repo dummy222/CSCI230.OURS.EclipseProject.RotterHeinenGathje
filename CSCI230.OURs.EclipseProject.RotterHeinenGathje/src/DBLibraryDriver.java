@@ -17,7 +17,7 @@ import java.util.*;
 
 public class DBLibraryDriver {
   private UniversityDBLibrary univDBlib;
-  
+  //Im changing it here again
   public  DBLibraryDriver(String username, String password){
     univDBlib = new UniversityDBLibrary(username,password);
   }
@@ -40,6 +40,7 @@ public class DBLibraryDriver {
     }
     else{
       pw.println("Nothing to display");
+      //System.out.println("I edited this right here")
     }
   }
   
