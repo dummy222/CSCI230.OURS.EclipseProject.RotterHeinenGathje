@@ -1,0 +1,20 @@
+package csci230.project;
+
+import java.util.List;
+import dblibrary.project.csci230.*;
+import java.io.*;
+import java.util.*;
+
+public class test {
+
+	public test() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		String msg = db.getEmphases();
+		System.out.println(msg);
+
+	}
+
+}

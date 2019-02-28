@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/CSCI230.OURs.EclipseProject.RotterHeinenGathje/src/edu/csbsju/cs/SimplePrint.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="edu.csbsju.cs.SimplePrint"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="zach&#10;matt&#10;pete&#10;imad"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="CSCI230.OURs.EclipseProject.RotterHeinenGathje"/>
+</launchConfiguration>
